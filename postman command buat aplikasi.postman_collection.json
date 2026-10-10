@@ -1,0 +1,75 @@
+{
+  "info": {
+    "_postman_id": "3b138489-1741-4ed4-89e4-2b06d4598205",
+    "name": "postman command buat aplikasi",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "54129578",
+    "_collection_link": "https://go.postman.co/collection/54129578-3b138489-1741-4ed4-89e4-2b06d4598205?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Loans",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "filter terlambat",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "tambah anggota",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "tambah buku",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "catat pinjam",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "ubah tempo jauh",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "kembalikan buku",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Hapus",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}

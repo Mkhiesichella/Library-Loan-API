@@ -1,13 +1,9 @@
-# 📚 Library Loan API
-
-RESTful API untuk mengelola **peminjaman buku perpustakaan oleh anggota**, dibangun dengan **Node.js**, **Express.js**, dan **Supabase (PostgreSQL)**, serta di-deploy ke **Vercel**.
-
-> Tugas Individu — Praktikum Pemrograman Perangkat Bergerak (PPB), Modul 1: Application Programming Interface (API)
+> Tugas Responsi 1
 
 | | |
 |---|---|
-| **Nama** | _(isi nama kamu)_ |
-| **NIM** | _(isi NIM kamu)_ |
+| **Nama** | Muhammad Khiesichella Putra Yudanto |
+| **NIM** | 21120124140122 |
 | **Base URL (Vercel)** | `https://GANTI-DENGAN-URL-VERCEL-KAMU.vercel.app` |
 
 ---

@@ -1,0 +1,21 @@
+{
+  "name": "library-loan-api",
+  "version": "1.0.0",
+  "description": "RESTful API peminjaman buku perpustakaan (Node.js, Express.js, Supabase)",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["api", "express", "supabase", "perpustakaan"],
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.113.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
