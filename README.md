@@ -4,7 +4,7 @@
 |---|---|
 | **Nama** | Muhammad Khiesichella Putra Yudanto |
 | **NIM** | 21120124140122 |
-| **Base URL (Vercel)** | `https://library-loan-api.vercel.app` |
+| **Base URL (Vercel)** | `https://library-loan-api-mkhiesihcellla-flax.vercel.app` |
 
 ---
 
