@@ -4,7 +4,7 @@
 |---|---|
 | **Nama** | Muhammad Khiesichella Putra Yudanto |
 | **NIM** | 21120124140122 |
-| **Base URL (Vercel)** | `https://GANTI-DENGAN-URL-VERCEL-KAMU.vercel.app` |
+| **Base URL (Vercel)** | `https://library-loan-api.vercel.app` |
 
 ---
 
